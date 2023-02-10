@@ -1,0 +1,22 @@
+Log in to the AWS Management Console:
+
+Go to the AWS Management Console at https://aws.amazon.com/.
+Log in to your AWS account using the appropriate credentials.
+Navigate to the AWS IAM Dashboard:
+
+Once you are logged in to the AWS Management Console, go to the AWS Identity and Access Management (IAM) Dashboard.
+This can be done by clicking on the "Services" menu, and then selecting "IAM" from the list of AWS services.
+Manage IAM policies:
+
+On the IAM Dashboard, select the "Policies" option.
+This will take you to the "Policies" page, where you can manage the policies associated with your AWS account.
+To ensure that there are no inline policies, you should make sure that all policies are managed as AWS-managed policies or customer-managed policies, but not inline policies.
+Remove inline policies:
+
+If you find any inline policies, you should remove them.
+To do this, select the inline policy and click the "Delete" button.
+You should then replace the inline policy with either an AWS-managed policy or a customer-managed policy as appropriate.
+Save changes:
+
+Once you have updated the policies, click the "Save" button to apply the changes.
+This will ensure that all policies are managed as either AWS-managed policies or customer-managed policies, but not inline policies.
