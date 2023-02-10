@@ -1,0 +1,18 @@
+Log in to the AWS Management Console:
+
+Go to the AWS Management Console at https://aws.amazon.com/.
+Log in to your AWS account using the appropriate credentials.
+Navigate to the AWS IAM Dashboard:
+
+Once you are logged in to the AWS Management Console, go to the AWS Identity and Access Management (IAM) Dashboard.
+This can be done by clicking on the "Services" menu, and then selecting "IAM" from the list of AWS services.
+Configure security questions:
+
+On the IAM Dashboard, select the "My security credentials" option.
+This will take you to the "My security credentials" page, where you can configure security questions for your AWS account.
+Choose a set of security questions and answers that only you would know.
+Ensure that the security questions and answers are correctly entered and saved.
+Save changes:
+
+Once you have configured the security questions, click the "Save" button to apply the changes.
+This will ensure that the security questions are correctly configured for your AWS account.
