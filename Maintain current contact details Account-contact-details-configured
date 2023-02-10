@@ -1,0 +1,37 @@
+To remediate this issue, you can follow these steps:
+
+Log in to the AWS Management Console: Go to the AWS Management Console and log in to your AWS account.
+
+Navigate to the AWS Billing and Cost Management Dashboard: Go to the AWS Billing and Cost Management Dashboard and select "Account settings."
+
+Update contact information: On the "Account settings" page, you can update the contact information for the AWS account owner. This information should include a valid email address, phone number, and any other relevant contact information.
+
+Save changes: Once you have updated the contact information, be sure to save your changes.
+
+By following these steps, you can ensure that your AWS account contact information is correctly configured, and that you can be contacted in the event of a security incident or other critical issue.
+
+
+
+
+lotusevil2000@gmail.com
+how
+
+Here are the steps in more detail on how to remediate the "Account-contact-details-configured" issue:
+
+Log in to the AWS Management Console:
+
+Go to the AWS Management Console at https://aws.amazon.com/.
+Log in to your AWS account using the appropriate credentials.
+Navigate to the AWS Billing and Cost Management Dashboard:
+
+Once you are logged in to the AWS Management Console, go to the AWS Billing and Cost Management Dashboard.
+This can be done by clicking on the "Billing & Cost Management" option from the AWS Management Console main menu.
+Update contact information:
+
+On the "Billing & Cost Management" dashboard, select the "Account settings" option.
+This will take you to the "Account settings" page, where you can update the contact information for the AWS account owner.
+Ensure that the email address, phone number, and any other relevant contact information are correct and up-to-date.
+Save changes:
+
+Once you have updated the contact information, click the "Save" button to apply the changes.
+This will ensure that the updated contact information is saved and can be used by AWS if necessary.
